@@ -18,7 +18,7 @@
 16,CEMTS,Steel,Basic Materials
 17,CLEBI,Airports & Air Services,Industrials
 18,DEVA,Drug Manufacturers/Specialty & Generic,Healthcare
-19,DGKLB,ISIM DEGIS,ISIM DEGIS
+19,DGNMO,Furnishings & Fixtures & Appliances,Consumer Cyclical
 20,DOHOL,Conglomerates,Industrials
 21,ECILC,Drug Manufacturers/General,Healthcare
 22,EGEEN,Auto Parts,Consumer Cyclical
@@ -112,3 +112,4 @@
 110,AFYON,Building Materials,Basic Materials
 111,ECZYT,Conglomerates,Industrials
 112,ISDMR,Steel,Basic Materials
+113,OZGYO,REIT/Diversified,Real Estate

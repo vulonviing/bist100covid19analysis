@@ -1,0 +1,114 @@
+,index,Unnamed: 0,HISSE,INDUSTRY-20,SEKTOR-20
+0,0,0,AEFES,Beverages/Brewers,Consumer Defensive
+1,1,1,AGHOL,Beverages/Non-Alcoholic,Consumer Defensive
+2,2,2,AKBNK,Banks/Regional,Financial Services
+3,99,99,AKCNS,Building Materials,Basic Materials
+4,3,3,AKGRT,Insurance/Diversified,Financial Services
+5,4,4,AKSA,Textile Manufacturing,Consumer Cyclical
+6,5,5,AKSEN,Utilities/Renewable,Utilities
+7,106,106,AKSGY,REIT/Diversified,Real Estate
+8,6,6,ALARK,Conglomerates,Industrials
+9,7,7,ALBRK,Banks/Regional,Financial Services
+10,107,107,ALCTL,Communication Equipment,Technology
+11,8,8,ALGYO,REIT/Diversified,Real Estate
+12,9,9,ALKIM,Paper & Paper Products,Basic Materials
+13,10,10,ANACM,BIRLES,BIRLES
+14,11,11,ANHYT,Insurance/Life,Financial Services
+15,12,12,ARCLK,Furnishings & Fixtures & Appliances,Consumer Cyclical
+16,108,108,ARDYZ,Software/Infrastructure,Technology
+17,13,13,ASELS,Aerospace & Defense,Industrials
+18,14,14,AYGAZ,Utilities/Regulated Gas,Utilities
+19,15,15,BIMAS,Grocery Stores,Consumer Defensive
+20,16,16,BIZIM,Department Stores,Consumer Cyclical
+21,17,17,BRISA,Auto Parts,Consumer Cyclical
+22,18,18,BRSAN,Steel,Basic Materials
+23,19,19,BTCIM,Building Materials,Basic Materials
+24,20,20,BUCIM,Building Materials,Basic Materials
+25,21,21,CCOLA,Beverages/Non-Alcoholic,Consumer Defensive
+26,22,22,CEMTS,Steel,Basic Materials
+27,23,23,CIMSA,Building Materials,Basic Materials
+28,24,24,CLEBI,Airports & Air Services,Industrials
+29,25,25,DEVA,Drug Manufacturers/Specialty & Generic,Healthcare
+30,26,26,DOAS,Auto & Truck Dealerships,Consumer Cyclical
+31,104,104,DOCO,Airports & Air Services,Industrials
+32,27,27,DOHOL,Conglomerates,Industrials
+33,28,28,ECILC,Drug Manufacturers/General,Healthcare
+34,29,29,ECZYT,Conglomerates,Industrials
+35,30,30,EGEEN,Auto Parts,Consumer Cyclical
+36,31,31,EKGYO,REIT/Residential,Real Estate
+37,32,32,ENJSA,Utilities/Regulated Electric,Utilities
+38,33,33,ENKAI,Engineering & Construction,Industrials
+39,34,34,ERBOS,Metal Fabrication,Industrials
+40,35,35,EREGL,Steel,Basic Materials
+41,36,36,FROTO,Auto Manufacturers,Consumer Cyclical
+42,37,37,GARAN,Banks/Regional,Financial Services
+43,100,100,GLYHO,Conglomerates,Industrials
+44,38,38,GOODY,Auto Parts,Consumer Cyclical
+45,39,39,GOZDE,Asset Management,Financial Services
+46,40,40,GSDHO,Asset Management,Financial Services
+47,41,41,GUBRF,Agricultural Inputs,Basic Materials
+48,42,42,HALKB,Banks/Regional,Financial Services
+49,43,43,HEKTS,Agricultural Inputs,Basic Materials
+50,44,44,HLGYO,REIT/Diversified,Real Estate
+51,45,45,INDES,Computer Hardware,Technology
+52,46,46,IPEKE,Gold,Basic Materials
+53,47,47,ISCTR,Banks/Regional,Financial Services
+54,48,48,ISFIN,Credit Services,Financial Services
+55,49,49,ISGYO,REIT/Diversified,Real Estate
+56,50,50,ISMEN,Capital Markets,Financial Services
+57,51,51,KAREL,Communication Equipment,Technology
+58,52,52,KARSN,Auto Manufacturers,Consumer Cyclical
+59,53,53,KARTN,Packaging & Containers,Consumer Cyclical
+60,54,54,KCHOL,Conglomerates,Industrials
+61,55,55,KERVT,Packaged Foods,Consumer Defensive
+62,56,56,KLMSN,Specialty Industrial Machinery,Industrials
+63,57,57,KORDS,Textile Manufacturing,Consumer Cyclical
+64,58,58,KOZAA,Other Industrial Metals & Mining,Basic Materials
+65,59,59,KOZAL,Gold,Basic Materials
+66,60,60,KRDMD,Steel,Basic Materials
+67,61,61,LOGO,Software/Application,Technology
+68,62,62,MAVI,Apparel Retail,Consumer Cyclical
+69,63,63,MGROS,Grocery Stores,Consumer Defensive
+70,64,64,MPARK,Medical Care Facilities,Healthcare
+71,65,65,NETAS,Communication Equipment,Technology
+72,66,66,NTHOL,Travel Services,Consumer Cyclical
+73,67,67,ODAS,Utilities/Regulated Electric,Utilities
+74,68,68,OTKAR,Auto Manufacturers,Consumer Cyclical
+75,105,105,OYAKC,Building Materials,Basic Materials
+76,101,101,OZKGY,REIT/Diversified,Real Estate
+77,69,69,PETKM,Chemicals,Basic Materials
+78,109,109,PETUN,Packaged Foods,Consumer Defensive
+79,70,70,PGSUS,Airlines,Industrials
+80,110,110,PNSUT,Packaged Foods,Consumer Defensive
+81,102,102,RYGYO,REIT/Industrial,Real Estate
+82,71,71,SAHOL,Banks/Regional,Financial Services
+83,72,72,SARKY,Copper,Basic Materials
+84,73,73,SASA,Textile Manufacturing,Consumer Cyclical
+85,103,103,SELEC,Pharmaceutical Retailers,Healthcare
+86,74,74,SISE,Specialty Chemicals,Basic Materials
+87,75,75,SKBNK,Banks/Regional,Financial Services
+88,76,76,SODA,BIRLES,BIRLES
+89,77,77,SOKM,Department Stores,Consumer Cyclical
+90,78,78,TATGD,Packaged Foods,Consumer Defensive
+91,79,79,TAVHL,Airports & Air Services,Industrials
+92,80,80,TCELL,Telecom Services,Communication Services
+93,81,81,THYAO,Airlines,Industrials
+94,82,82,TKFEN,Engineering & Construction,Industrials
+95,83,83,TMSN,Farm & Heavy Construction Machinery,Industrials
+96,84,84,TOASO,Auto Manufacturers,Consumer Cyclical
+97,85,85,TRCAS,Utilities/Independent Power Producers,Utilities
+98,86,86,TRGYO,REIT/Retail,Real Estate
+99,87,87,TRKCM,BIRLES,BIRLES
+100,88,88,TSKB,Banks/Regional,Financial Services
+101,89,89,TTKOM,Telecom Services,Communication Services
+102,90,90,TTRAK,Farm & Heavy Construction Machinery,Industrials
+103,91,91,TUPRS,Oil & Gas Refining & Marketing,Energy
+104,92,92,TURSG,Insurance/Property & Casualty,Financial Services
+105,93,93,ULKER,Confectioners,Consumer Defensive
+106,94,94,VAKBN,Banks/Regional,Financial Services
+107,95,95,VESTL,Consumer Electronics,Technology
+108,96,96,YATAS,Furnishings & Fixtures & Appliances,Consumer Cyclical
+109,97,97,YKBNK,Banks/Regional,Financial Services
+110,98,98,ZOREN,Utilities/Diversified,Utilities
+111,99,99,ISDMR,Steel,Basic Materials
+112,100,100,BAGFS,Agricultural Inputs,Basic Materials

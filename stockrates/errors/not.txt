@@ -1,0 +1,1 @@
+ilk başta investing'den çekilen ek error verileri investing'in yaptığı farklı düzeltme metotlarından dolayı yanıltıcı oldu. yahoo'nun düzeltmesiz verileriyle eşlenik veri veren iş yatırım altyapısı kullanıldı.

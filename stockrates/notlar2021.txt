@@ -1,0 +1,8 @@
+5 Failed downloads:
+- ESEN.IS: Period 'max' is invalid, must be one of ['1d', '5d']
+- BIOEN.IS: Period 'max' is invalid, must be one of ['1d', '5d']
+- ZRGYO.IS: Period 'max' is invalid, must be one of ['1d', '5d']
+- KRVGD.IS: Period 'max' is invalid, must be one of ['1d', '5d']
+- TRILC.IS: Period 'max' is invalid, must be one of ['1d', '5d']
+
+üsteki hisseler manuel çekilecek
