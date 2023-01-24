@@ -1,4 +1,4 @@
-# project B
+# project B - THIS PROJECT STILL IN PROGRESS, DESCRIPTION WILL BE UPDATED WHEN IT IS NECESSARY
 big data analyzing about sectoral based BIST100 stocks correlation with Covid-19, maded for TUBITAK. **all using Python and it's libraries.** <br />
 
 BIST100 divided into three as pre-pandemic, pandemic and post-pandemic named new normal.<br /> so, with this method, we're analyzing years like: <br />
